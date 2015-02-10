@@ -1,0 +1,110 @@
+*{
+  margin:0;
+  font-family: Arial ;
+}
+body{
+	margin: 0;
+	padding:0;
+	background-color: #fff;
+}
+.wrapper{
+	width: 100%;
+	margin: 0 auto;
+}
+.logo{
+  background:url(../img/logo.png);
+  background-size:100% auto;
+  display: inline-block;
+  height:100px;
+  text-indent:-9999px;
+  width:6rem;
+  background-color: #2d8ab5;
+}
+nav{
+	background-color: #2b2b2b;
+	position: fixed;
+	width: 100%;
+	z-index: 1;
+}
+nav li{
+  display:inline-block;
+}
+
+
+
+a{
+	text-decoration: none;
+	position: relative;
+	color: #fff;
+}
+.img-princ{
+	padding-top: 6rem;
+}
+.img-princ h2{
+	font-size: 1.5rem;
+}
+
+.cont-img-princ{
+	background: url(../img/banner-head.jpg) no-repeat;
+	 background-size:100% auto;
+  line-height: 30px;
+  text-align: center;
+  padding-bottom:5%;
+  width:100%;
+  color: #fff;
+}
+.cont-img-princ a{
+  border:1px solid #fff;
+  border-radius:2px;
+  display:block;
+  margin:2% 0 3% 43.2%;
+  padding:0.3% 1%;
+  text-decoration:none;
+  width:12%;
+  margin-top: -0.2rem;
+}
+.cont-img-princ h4 span{
+	color: #000;
+	font-weight: bold;
+}
+.nav-link {
+	margin-left: 100px;
+	padding: 4rem;
+	top: 2rem;
+}
+.cont-img-princ a {
+
+}
+.acerca{
+	width: 1000px;
+	margin:0 auto;
+}
+.acerca h5{
+	border-bottom: solid 2px;
+}
+.acerca h3 {
+	margin-top: 3rem;
+}
+.p1{
+	width: 48%;
+	position: relative;
+	display: inline-block;
+}
+.p2{
+	width: 48%;
+	display: inline-block;
+	position: relative;
+	margin-left: 2%;
+}
+.acerca p{
+	margin-top: 2rem;
+}
+.rayita:before{
+background-color: #000;
+width: 50px;
+height: 2px;
+}
+.dc13{
+	width:100%;
+	
+}
